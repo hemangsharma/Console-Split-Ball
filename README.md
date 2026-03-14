@@ -1,4 +1,4 @@
-# Console Split Ball – Physics Simulation Game
+# Console Split Ball
 
 ## Overview
 Console Split Ball is a Python-based physics simulation built with Pygame.  
@@ -88,7 +88,7 @@ The bottom console area allows you to input velocity values.
 Velocity range:
 
 ```
-1 – 100
+1 - 100
 ```
 
 Higher velocities produce more energetic collisions and greater fragmentation.
@@ -125,9 +125,10 @@ It serves as both an educational tool and a portfolio project demonstrating prac
 
 ## Screenshots
 
-Example output images can be found below.
+![Simulation](images/simulation1.png)
+![Fragmentation](images/simulation2.png)
+![Fragmentation2](images/simulation3.png)
 
-(Add screenshots of the simulation here)
 
 ---
 
