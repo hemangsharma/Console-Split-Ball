@@ -22,7 +22,6 @@ The simulation incorporates:
 
 This project is intended as both a physics demonstration and a showcase of programming and simulation design skills.
 
----
 
 ## Features
 
@@ -34,7 +33,6 @@ This project is intended as both a physics demonstration and a showcase of progr
 - Interactive input system
 - Open source under the MIT License
 
----
 
 ## Requirements
 
@@ -43,7 +41,6 @@ Python 3.9 or newer
 Python library:
 - pygame
 
----
 
 ## Installation
 
@@ -60,7 +57,6 @@ Install dependencies:
 pip install pygame
 ```
 
----
 
 ## Running the Simulation
 
@@ -74,7 +70,6 @@ A window will open showing the simulation environment.
 
 The bottom console area allows you to input velocity values.
 
----
 
 ## Controls
 
@@ -93,7 +88,6 @@ Velocity range:
 
 Higher velocities produce more energetic collisions and greater fragmentation.
 
----
 
 ## How the Simulation Works
 
@@ -107,7 +101,6 @@ Higher velocities produce more energetic collisions and greater fragmentation.
 
 The simulation uses simple Newtonian approximations rather than a full physics engine, making it lightweight and easy to understand.
 
----
 
 ## Purpose of the Project
 
@@ -121,7 +114,6 @@ This project was created to demonstrate:
 
 It serves as both an educational tool and a portfolio project demonstrating practical programming and problem-solving skills.
 
----
 
 ## Screenshots
 
@@ -130,14 +122,11 @@ It serves as both an educational tool and a portfolio project demonstrating prac
 ![Fragmentation2](images/simulation3.png)
 
 
----
-
 ## License
 
 This project is open source and distributed under the MIT License.
 See the LICENSE file for details.
 
----
 
 ## Contributing
 
